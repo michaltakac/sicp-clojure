@@ -1,14 +1,12 @@
-# sicp
+# SICP Distilled exercises
 
-A Clojure library designed to ... well, that part is up to you.
+Lolwut I'm really doing this...
 
 ## Usage
 
-FIXME
+I've been using VSCode, so this is how I do it:
 
-## License
-
-Copyright © 2018 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+1. Run Clojure REPL (lein repl)
+2. Connect to it from VSCode (Shift+Cmd+P and find "Clojure: Connect to a running nREPL")
+3. Highlight part of the code you want to run
+4. Cmd+e
